@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<autod>
+    <auto id="BMW">
+        <seria>BMW 3</seria>
+        <nimi>BMW 525</nimi>
+        <keretyyp>sedaan</keretyyp>
+        <aasta>1996</aasta>
+        <mootor>2.5 (105 kW)</mootor>
+        <kytus>	diisel</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="BMW">
+        <seria>BMW 3</seria>
+        <nimi>BMW 316</nimi>
+        <keretyyp>kupee</keretyyp>
+        <aasta>1997</aasta>
+        <mootor>1.6 (75 kW)</mootor>
+        <kytus>bensiin + gaas</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="BMW">
+        <seria>BMW 5</seria>
+        <nimi>BMW 525</nimi>
+        <keretyyp>sedaan</keretyyp>
+        <aasta>1996</aasta>
+        <mootor>2.5 (105 kW)</mootor>
+        <kytus>	diisel</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="Volvo">
+        <seria>Volvo V</seria>
+        <nimi>Volvo V40</nimi>
+        <keretyyp>universaal</keretyyp>
+        <aasta>2002</aasta>
+        <mootor>1.9 (120 kW)</mootor>
+        <kytus>bensiin</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="Volvo">
+        <seria>Volvo V</seria>
+        <nimi>Volvo V70</nimi>
+        <keretyyp>universaal</keretyyp>
+        <aasta>2007</aasta>
+        <mootor>2.4 (120 kW)</mootor>
+        <kytus>diisel</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="Volvo">
+        <seria>Volvo S</seria>
+        <nimi>Volvo S60</nimi>
+        <keretyyp>sedaan</keretyyp>
+        <aasta>2003</aasta>
+        <mootor>2.4 (96 kW)</mootor>
+        <kytus>diisel</kytus>
+        <kaigukast>manuaal</kaigukast>
+    </auto>
+    <auto id="Mercedes">
+        <seria>Mercedes-Benz C klass</seria>
+        <nimi>Mercedes-Benz C 180</nimi>
+        <keretyyp>sedaan</keretyyp>
+        <aasta>2014</aasta>
+        <mootor>1.6 R4 (115 kW)</mootor>
+        <kytus>bensiin</kytus>
+        <kaigukast>automaat</kaigukast>
+    </auto>
+    <auto id="Mercedes">
+        <seria>Mercedes-Benz E klass</seria>
+        <nimi>Mercedes-Benz E 220</nimi>
+        <keretyyp>sedaan</keretyyp>
+        <aasta>2017</aasta>
+        <mootor>2.2 (143 kW)</mootor>
+        <kytus>diisel</kytus>
+        <kaigukast>automaat</kaigukast>
+    </auto>
+    <auto id="Mercedes">
+        <seria>Mercedes-Benz SL klass</seria>
+        <nimi>Mercedes-Benz SL 300</nimi>
+        <keretyyp>kabriolett</keretyyp>
+        <aasta>1991</aasta>
+        <mootor>3.0 (170 kW)</mootor>
+        <kytus>bensiin</kytus>
+        <kaigukast>automaat</kaigukast>
+    </auto>
+</autod>
